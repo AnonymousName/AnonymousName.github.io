@@ -1,3 +1,3 @@
 ## Test
 
-[Test](https://github.com/AnonymousName/AnonymousName)
+[Test](https://github.com/AnonymousName/)
